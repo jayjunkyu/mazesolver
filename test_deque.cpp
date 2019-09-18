@@ -6,7 +6,6 @@
 #include "deque.hpp"
 #include <string>
 
-// TODO
 using namespace std;
 
 struct coordinates {
