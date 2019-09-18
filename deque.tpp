@@ -9,7 +9,6 @@ int Deque<T>::getLength()
 	return count;
 }
 
-// TODO
 template <typename T>
 Deque<T>::Deque()
 {
