@@ -18,7 +18,6 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-	// TODO
 	//Checking if command input is correct
 	if (argc != 3)
 	{
